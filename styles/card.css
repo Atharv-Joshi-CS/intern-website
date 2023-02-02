@@ -1,0 +1,15 @@
+.teamDiv {
+    display: flex;
+}
+
+.cardElement {
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    min-width: 300px;
+    text-align: center;
+}
+
+.hyperLinkDiv{
+    margin: 10px;
+}
