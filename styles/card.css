@@ -1,15 +1,27 @@
+#root {
+    text-align: center;
+}
+
 .teamDiv {
     display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
 }
 
 .cardElement {
     background-color: antiquewhite;
     padding: 10px;
     margin: 10px;
-    min-width: 300px;
+    width: 20%;
     text-align: center;
 }
 
 .hyperLinkDiv{
     margin: 10px;
+}
+
+.nameElement{
+    font-size: large;
+    font-weight: 800;
 }
